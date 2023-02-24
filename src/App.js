@@ -1,5 +1,9 @@
 function App() {
-  return <div>React House</div>;
+  return (
+    <>
+      <h1 className="text-3xl font-bold underline">React House</h1>
+    </>
+  );
 }
 
 export default App;
