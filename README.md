@@ -1,3 +1,11 @@
+# React House
+
+This repository represents a website where I will showcase interesting information about React, such as news and best practices.
+
+The idea is that with this website, not only will I reinforce my knowledge of React, but also in the future, receive contributions from other developers to make the React House even more valuable for React fans. 
+
+As Sergio Medina, the first author of this repository, I am excited to share my knowledge and passion for React with others in the community.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
